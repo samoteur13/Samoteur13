@@ -30,7 +30,7 @@
 
 ## About Me
 
-I'm `Samy`, a technology enthusiast with a passion for software development. My GitHub profile is a reflection of my journey and my ongoing projects. I'm currently working on the revamp of a CRM using the Laravel and React frameworks with TypeScript.
+I'm `Samy`, a technology enthusiast with a passion for software development. My GitHub profile is a reflection of my journey and my ongoing projects. I'm currently working on the revamp of a CRM using the Laravel and React frameworks with TypeScript in my <a  href="https://github.com/samy-Novanea" >github pro</>.
 
 
 <!--
