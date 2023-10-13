@@ -1,6 +1,5 @@
 <div align="center">
   <h3>Hi there 👋</h3>
-<img src='./assets/photoMoi.png' alt='me' width='30%' />
 </div>
 
 
